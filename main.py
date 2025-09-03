@@ -99,7 +99,7 @@ def process_file_conversion(file_info):
     return (name, success)
 
 
-def run_git_pull(branch="automation-epc-ui"):
+def run_git_pull(branch="main"):
     """Checkout and pull latest branch with safety checks"""
     try:
         # Check for uncommitted changes
