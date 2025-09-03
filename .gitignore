@@ -211,4 +211,5 @@ __marimo__/
 
 # JetBrains IDE (IntelliJ, WebStorm, PhpStorm, dll.)
 .idea/
+tmp/
 
