@@ -206,6 +206,9 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
- .DS_Store
- .idea/
+# macOS system file
+.DS_Store
+
+# JetBrains IDE (IntelliJ, WebStorm, PhpStorm, dll.)
+.idea/
 
